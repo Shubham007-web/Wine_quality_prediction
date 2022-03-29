@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 import csv
 # loading saved wine model named
-model = joblib.load('/home/shubhm/Documents/python/machine_learning_projects/wine/wine_qaulity_RandomForest.dat')
+model = joblib.load('wine_qaulity_RandomForest.dat')
 
 
 # creating function for prediction
