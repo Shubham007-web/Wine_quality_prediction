@@ -19,4 +19,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 
 12 - quality (score between 3 and 8)
 
-- Here quality score of wine 3 represent very poor quality and 8 excellent quality of wine, and remaining classes in between.
+- Here quality score of wine 3 represent very poor quality and 8 excellent quality of wine, and remaining classes in between. pyth
+- In this predictive model, I saved model weights with help of joblib library with the extentsion **.dat** (binary file).
+- Which is used to deploy model without data training again and again.
+- I deploied this model with streamlit python library.
