@@ -17,7 +17,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 
 **Output variable (based on sensory data):**
 
-12 - quality (score between 3 and 8)
+12 - quality (score between 1 to 8)
 
 - Here quality score of wine 3 represent very poor quality and 8 excellent quality of wine, and remaining classes in between. pyth
 - In this predictive model, I saved model weights with help of joblib library with the extentsion **.dat** (binary file).
